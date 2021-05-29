@@ -4,5 +4,5 @@ First django project
 # Screenshot of Rendered Data
 
 ##
-   djangoappscreenshot.PNG
+![screenshot](djangoappscreenshot.PNG)
           
